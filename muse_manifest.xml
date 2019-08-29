@@ -1,23 +1,26 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="routetorhythm.com" resolutions="1x,2x" timestamp="1566968098529">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jmjama78.github.io" resolutions="1x,2x" timestamp="1567049725270">
   <folder name="css">
     <file name="site_global.css" crc="276448201"/>
-    <file name="master_a-master.css" crc="320361555" ref="negril:ocho-rios:kingston:montego-bay:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3928913171" ref="negril:ocho-rios:kingston:montego-bay:index"/>
-    <file name="negril.css" crc="57011684" ref="negril"/>
-    <file name="nomq_negril.css" crc="329239428" ref="negril"/>
-    <file name="ocho-rios.css" crc="4190345474" ref="ocho-rios"/>
-    <file name="nomq_ocho-rios.css" crc="3944434907" ref="ocho-rios"/>
-    <file name="kingston.css" crc="4079436099" ref="kingston"/>
-    <file name="nomq_kingston.css" crc="135629372" ref="kingston"/>
-    <file name="montego-bay.css" crc="4196850329" ref="montego-bay"/>
-    <file name="nomq_montego-bay.css" crc="3837674462" ref="montego-bay"/>
-    <file name="index.css" crc="4240475162" ref="index"/>
-    <file name="nomq_index.css" crc="459644497" ref="index"/>
+    <file name="master_a-master.css" crc="524830194" ref="index:ocho-rios:negril:montego-bay:kingston"/>
+    <file name="nomq_preview_master_a-master.css" crc="3963041740" ref="index:ocho-rios:negril:montego-bay:kingston"/>
+    <file name="index.css" crc="4093831870" ref="index"/>
+    <file name="nomq_index.css" crc="4174524848" ref="index"/>
+    <file name="ocho-rios.css" crc="3876429235" ref="ocho-rios"/>
+    <file name="nomq_ocho-rios.css" crc="102975531" ref="ocho-rios"/>
+    <file name="negril.css" crc="144617409" ref="negril"/>
+    <file name="nomq_negril.css" crc="4142647300" ref="negril"/>
+    <file name="montego-bay.css" crc="3932085886" ref="montego-bay"/>
+    <file name="nomq_montego-bay.css" crc="3991674895" ref="montego-bay"/>
+    <file name="kingston.css" crc="252105139" ref="kingston"/>
+    <file name="nomq_kingston.css" crc="126469222" ref="kingston"/>
   </folder>
   <folder name="fonts">
     <file name="din_black-webfont.woff" crc="3840303079"/>
     <file name="din_black-webfont.eot" crc="3944421785"/>
     <file name="din_black-webfont.svg" crc="3978613860"/>
+    <file name="din_alternate_medium-webfont.woff" crc="505988201"/>
+    <file name="din_alternate_medium-webfont.eot" crc="266570968"/>
+    <file name="din_alternate_medium-webfont.svg" crc="307644627"/>
     <file name="din_medium-webfont.woff" crc="4259907736"/>
     <file name="din_medium-webfont.eot" crc="233594279"/>
     <file name="din_medium-webfont.svg" crc="4079198068"/>
@@ -27,12 +30,12 @@
     <file name="pizzadude.dk_-_earthwerk-webfont.woff" crc="4262085197"/>
     <file name="pizzadude.dk_-_earthwerk-webfont.eot" crc="406661068"/>
     <file name="pizzadude.dk_-_earthwerk-webfont.svg" crc="503571959"/>
-    <file name="din_alternate_bold-webfont.woff" crc="319096719"/>
-    <file name="din_alternate_bold-webfont.eot" crc="294508907"/>
-    <file name="din_alternate_bold-webfont.svg" crc="4242570570"/>
     <file name="din_blackalternate-webfont.woff" crc="3826483922"/>
     <file name="din_blackalternate-webfont.eot" crc="351500492"/>
     <file name="din_blackalternate-webfont.svg" crc="4213119310"/>
+    <file name="din_alternate_bold-webfont.woff" crc="319096719"/>
+    <file name="din_alternate_bold-webfont.eot" crc="294508907"/>
+    <file name="din_alternate_bold-webfont.svg" crc="4242570570"/>
   </folder>
   <folder name="assets">
     <file name="leaflet-page-1.pdf" crc="39299244" seo="true" mt="1515680329000"/>
@@ -57,35 +60,35 @@
     <file name="require.js" crc="4157109226" ref="index:montego-bay:ocho-rios:kingston:negril"/>
   </folder>
   <folder name="images">
-    <file name="flat map jamaica roads 25-.png" crc="161073388" seo="true" ref="index">
+    <file name="flat map jamaica roads 25-.png" crc="4025570998" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flat map jamaica roads 25-_2x.png" crc="450607386" seo="true" ref="index">
+    <file name="flat map jamaica roads 25-_2x.png" crc="4060924170" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flat map jamaica roads 25-874x347.png" crc="4186096000" seo="true" ref="index">
+    <file name="flat map jamaica roads 25-631x251.png" crc="294174513" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flat map jamaica roads 25-874x347_2x.png" crc="480797677" seo="true" ref="index">
+    <file name="flat map jamaica roads 25-631x251_2x.png" crc="353479041" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flat map jamaica roads 25-683x271.png" crc="4183181123" seo="true" ref="index">
+    <file name="flat map jamaica roads 25-474x188.png" crc="308932418" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flat map jamaica roads 25-683x271_2x.png" crc="4212718080" seo="true" ref="index">
+    <file name="flat map jamaica roads 25-474x188_2x.png" crc="313738846" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flat map jamaica roads 25-341x135.png" crc="3825012300" seo="true" ref="index">
+    <file name="flat map jamaica roads 25-341x135.png" crc="63794683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="flat map jamaica roads 25-341x135_2x.png" crc="315999021" seo="true" ref="index">
+    <file name="flat map jamaica roads 25-341x135_2x.png" crc="4177390713" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:montego-bay:ocho-rios:kingston:negril"/>
   </folder>
-  <file name="index.html" crc="4036800091" seo="true" mt="1566967335023" redirect="true"/>
-  <file name="montego-bay.html" crc="444765913" seo="true" mt="1566966562283" redirect="true"/>
-  <file name="ocho-rios.html" crc="371013223" seo="true" mt="1566966562283" redirect="true"/>
-  <file name="kingston.html" crc="222338182" seo="true" mt="1566966562283" redirect="true"/>
-  <file name="negril.html" crc="4278045213" seo="true" mt="1566966562283" redirect="true"/>
+  <file name="index.html" crc="242841566" seo="true" mt="1567049644633" redirect="true"/>
+  <file name="montego-bay.html" crc="4047595183" seo="true" mt="1567021549697" redirect="true"/>
+  <file name="ocho-rios.html" crc="100099283" seo="true" mt="1567021549697" redirect="true"/>
+  <file name="kingston.html" crc="19005829" seo="true" mt="1567048951610" redirect="true"/>
+  <file name="negril.html" crc="171055805" seo="true" mt="1567049411065" redirect="true"/>
 </manifest>
