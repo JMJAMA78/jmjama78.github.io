@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jmjama78.github.io" resolutions="1x,2x" timestamp="1567049725270">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jmjama78.github.io" resolutions="1x,2x" timestamp="1567052267672">
   <folder name="css">
     <file name="site_global.css" crc="276448201"/>
     <file name="master_a-master.css" crc="524830194" ref="index:ocho-rios:negril:montego-bay:kingston"/>
     <file name="nomq_preview_master_a-master.css" crc="3963041740" ref="index:ocho-rios:negril:montego-bay:kingston"/>
-    <file name="index.css" crc="4093831870" ref="index"/>
-    <file name="nomq_index.css" crc="4174524848" ref="index"/>
+    <file name="index.css" crc="4221930074" ref="index"/>
+    <file name="nomq_index.css" crc="4096088400" ref="index"/>
     <file name="ocho-rios.css" crc="3876429235" ref="ocho-rios"/>
     <file name="nomq_ocho-rios.css" crc="102975531" ref="ocho-rios"/>
     <file name="negril.css" crc="144617409" ref="negril"/>
@@ -18,12 +18,12 @@
     <file name="din_black-webfont.woff" crc="3840303079"/>
     <file name="din_black-webfont.eot" crc="3944421785"/>
     <file name="din_black-webfont.svg" crc="3978613860"/>
-    <file name="din_alternate_medium-webfont.woff" crc="505988201"/>
-    <file name="din_alternate_medium-webfont.eot" crc="266570968"/>
-    <file name="din_alternate_medium-webfont.svg" crc="307644627"/>
     <file name="din_medium-webfont.woff" crc="4259907736"/>
     <file name="din_medium-webfont.eot" crc="233594279"/>
     <file name="din_medium-webfont.svg" crc="4079198068"/>
+    <file name="din_alternate_medium-webfont.woff" crc="505988201"/>
+    <file name="din_alternate_medium-webfont.eot" crc="266570968"/>
+    <file name="din_alternate_medium-webfont.svg" crc="307644627"/>
     <file name="fontfabric_-_introregular-webfont.woff" crc="4009761860"/>
     <file name="fontfabric_-_introregular-webfont.eot" crc="249889443"/>
     <file name="fontfabric_-_introregular-webfont.svg" crc="26884796"/>
@@ -59,34 +59,7 @@
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:montego-bay:ocho-rios:kingston:negril"/>
     <file name="require.js" crc="4157109226" ref="index:montego-bay:ocho-rios:kingston:negril"/>
   </folder>
-  <folder name="images">
-    <file name="flat map jamaica roads 25-.png" crc="4025570998" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="flat map jamaica roads 25-_2x.png" crc="4060924170" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="flat map jamaica roads 25-631x251.png" crc="294174513" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="flat map jamaica roads 25-631x251_2x.png" crc="353479041" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="flat map jamaica roads 25-474x188.png" crc="308932418" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="flat map jamaica roads 25-474x188_2x.png" crc="313738846" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="flat map jamaica roads 25-341x135.png" crc="63794683" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="flat map jamaica roads 25-341x135_2x.png" crc="4177390713" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index:montego-bay:ocho-rios:kingston:negril"/>
-  </folder>
-  <file name="index.html" crc="242841566" seo="true" mt="1567049644633" redirect="true"/>
+  <file name="index.html" crc="40722394" seo="true" mt="1567052235664" redirect="true"/>
   <file name="montego-bay.html" crc="4047595183" seo="true" mt="1567021549697" redirect="true"/>
   <file name="ocho-rios.html" crc="100099283" seo="true" mt="1567021549697" redirect="true"/>
   <file name="kingston.html" crc="19005829" seo="true" mt="1567048951610" redirect="true"/>
