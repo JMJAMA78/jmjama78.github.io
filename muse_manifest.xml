@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jmjama78.github.io" resolutions="1x,2x" timestamp="1567052267672">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jmjama78.github.io" resolutions="1x,2x" timestamp="1567052789999">
   <folder name="css">
     <file name="site_global.css" crc="276448201"/>
     <file name="master_a-master.css" crc="524830194" ref="index:ocho-rios:negril:montego-bay:kingston"/>
     <file name="nomq_preview_master_a-master.css" crc="3963041740" ref="index:ocho-rios:negril:montego-bay:kingston"/>
-    <file name="index.css" crc="4221930074" ref="index"/>
-    <file name="nomq_index.css" crc="4096088400" ref="index"/>
+    <file name="index.css" crc="118491105" ref="index"/>
+    <file name="nomq_index.css" crc="3934818661" ref="index"/>
     <file name="ocho-rios.css" crc="3876429235" ref="ocho-rios"/>
     <file name="nomq_ocho-rios.css" crc="102975531" ref="ocho-rios"/>
     <file name="negril.css" crc="144617409" ref="negril"/>
@@ -59,9 +59,9 @@
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:montego-bay:ocho-rios:kingston:negril"/>
     <file name="require.js" crc="4157109226" ref="index:montego-bay:ocho-rios:kingston:negril"/>
   </folder>
-  <file name="index.html" crc="40722394" seo="true" mt="1567052235664" redirect="true"/>
-  <file name="montego-bay.html" crc="4047595183" seo="true" mt="1567021549697" redirect="true"/>
-  <file name="ocho-rios.html" crc="100099283" seo="true" mt="1567021549697" redirect="true"/>
-  <file name="kingston.html" crc="19005829" seo="true" mt="1567048951610" redirect="true"/>
-  <file name="negril.html" crc="171055805" seo="true" mt="1567049411065" redirect="true"/>
+  <file name="index.html" crc="4177967125" seo="true" mt="1567052717415" redirect="true"/>
+  <file name="montego-bay.html" crc="4047595183" seo="true" mt="1567052556901" redirect="true"/>
+  <file name="ocho-rios.html" crc="100099283" seo="true" mt="1567052556901" redirect="true"/>
+  <file name="kingston.html" crc="19005829" seo="true" mt="1567052556901" redirect="true"/>
+  <file name="negril.html" crc="171055805" seo="true" mt="1567052556901" redirect="true"/>
 </manifest>
